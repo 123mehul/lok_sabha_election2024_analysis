@@ -7,7 +7,7 @@ This repository contains a comprehensive analysis of the 2024 Lok Sabha election
 # Overview
 The repository consists of the following components:
 
-1: Data Collection: The election results data is sourced from the Election Commission of India’s official website.
+1: Data Collection: The election results data is sourced from [the Election Commission of India’s official website.](https://results.eci.gov.in)
 
 2: Data Cleaning and Preparation: The data is cleaned and formatted for analysis, ensuring accuracy and consistency.
 
