@@ -21,6 +21,8 @@ The repository consists of the following components:
 # Files and Directories
 
 -loksabha_election_analysis/: Directory containing the main analysis scripts and data files.
+
 -election_results.csv: The primary dataset with the election results.
+
 -analysis_script.py: The Python script used for data analysis and visualization.
 
